@@ -1,2 +1,0 @@
-# mylang
-Java compiler
